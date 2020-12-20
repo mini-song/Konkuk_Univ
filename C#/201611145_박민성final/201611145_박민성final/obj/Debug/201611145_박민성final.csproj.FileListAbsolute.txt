@@ -1,0 +1,14 @@
+C:\Users\minisong\Desktop\201611145_박민성final\201611145_박민성final\bin\Debug\201611145_박민성final.exe.config
+C:\Users\minisong\Desktop\201611145_박민성final\201611145_박민성final\bin\Debug\201611145_박민성final.exe
+C:\Users\minisong\Desktop\201611145_박민성final\201611145_박민성final\bin\Debug\201611145_박민성final.pdb
+C:\Users\minisong\Desktop\201611145_박민성final\201611145_박민성final\obj\Debug\201611145_박민성final.csprojAssemblyReference.cache
+C:\Users\minisong\Desktop\201611145_박민성final\201611145_박민성final\obj\Debug\_201611145_박민성final.Properties.Resources.resources
+C:\Users\minisong\Desktop\201611145_박민성final\201611145_박민성final\obj\Debug\201611145_박민성final.csproj.GenerateResource.cache
+C:\Users\minisong\Desktop\201611145_박민성final\201611145_박민성final\obj\Debug\201611145_박민성final.csproj.CoreCompileInputs.cache
+C:\Users\minisong\Desktop\201611145_박민성final\201611145_박민성final\obj\Debug\201611145_박민성final.exe
+C:\Users\minisong\Desktop\201611145_박민성final\201611145_박민성final\obj\Debug\201611145_박민성final.pdb
+C:\Users\minisong\Desktop\201611145_박민성final\201611145_박민성final\obj\Debug\_201611145_박민성final.graph.resources
+C:\Users\minisong\Desktop\201611145_박민성final\201611145_박민성final\obj\Debug\_201611145_박민성final.precise_search.resources
+C:\Users\minisong\Desktop\201611145_박민성final\201611145_박민성final\obj\Debug\_201611145_박민성final.main.resources
+C:\Users\minisong\Desktop\201611145_박민성final\201611145_박민성final\obj\Debug\_201611145_박민성final.category_search.resources
+C:\Users\minisong\Desktop\201611145_박민성final\201611145_박민성final\obj\Debug\_201611145_박민성final.quick_search.resources
